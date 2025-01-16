@@ -1,8 +1,8 @@
-# Patients-No-show-appointments-
+# Patients-No-show-appointments:
 This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. A number of characteristics about the patient are included in each row.
 
 
-# Conclusions
+# Conclusions:
 1- There is not big difference between the distribution of Age between patients who showed up for the appointment versus the patients that did not show up for the appointment.
 2- There is a higher percentage of people that received an SMS and did not show up when compared to people who received an SMS and did show up.
 3- People that have a disease are 3% more likely to show up for the appointment than people who do not have a disease.
